@@ -1,3 +1,27 @@
+# Twitter_sentiment_analysis
+
+
+### Hello, coders 👋
+### This Project will analyse twitter's tweet sentiment  
+
+![Twitter sentiment Analysis](https://miro.medium.com/max/2560/1*sDa7Oqnh-zRXPPewKZid4g.png)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+  
+## 🔧 Technologies used:
+* Python
+* Naive Bayes classifier
+
+## Library used:
+* Numpy
+* Pandas
+* nltk
+* stemming
+* tf-idf
+* bag-of-words
+
 # Twitter-Sentiment-Analysis
 It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization
 
