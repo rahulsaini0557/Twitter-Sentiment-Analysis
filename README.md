@@ -6,8 +6,6 @@
 
 ![Twitter sentiment Analysis](https://miro.medium.com/max/2560/1*sDa7Oqnh-zRXPPewKZid4g.png)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 
   
 ## 🔧 Technologies used:
